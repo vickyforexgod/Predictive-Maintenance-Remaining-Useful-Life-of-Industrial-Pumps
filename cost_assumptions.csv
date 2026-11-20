@@ -1,0 +1,5 @@
+item,cost_inr
+Unplanned breakdown (per event),350000
+Planned maintenance visit (per event),40000
+Downtime per hour (lost pumping),12000
+Lead time to schedule planned maintenance,72 hours
